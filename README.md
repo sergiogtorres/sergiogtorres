@@ -1,4 +1,4 @@
-Hi! I’m @Sergio-GTorres.
+Hi! I’m @sergiogtorres.
 
 I’m currently learning computer vision by following the slides from https://courses.cs.washington.edu/courses/cse576/ as well as following Richard Szeliski's Computer Vision: Algorithms and Applications.
 
