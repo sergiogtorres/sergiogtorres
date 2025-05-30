@@ -1,6 +1,3 @@
 Hi! I’m @sergiogtorres.
 
-I’m currently learning computer vision by following the slides from https://courses.cs.washington.edu/courses/cse576/ as well as following Richard Szeliski's Computer Vision: Algorithms and Applications.
-
-I'll be uploading my projects here soon!
-
+I'm building a foundation in computer vision and perception, starting from classical principles: image processing, 3D geometry, and multi-view perception, towards advanced topics like SLAM and sensor fusion. My focus is on understanding and implementing real-time perception and localization algorithms for applications like autonomous systems.
